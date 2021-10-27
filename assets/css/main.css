@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to bottom, #164a00, #164a00, #164a00, #d14217, #e72f2b, #3300c2, #3300c2, #3300c2);
+}
+.theirgood{
+    background-color:#164a00;
+    padding: 12px;
+}
+.theiraremen{
+    background-color: darkred;
+}
+.theirhappy{
+    background-color:#FF0000;
+}
+.thefight{
+    background-color:#FF0000;
+}
